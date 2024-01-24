@@ -1,15 +1,14 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
-name: mranderson
-display_name: Mr. Anderson
-position: The One
+photo: /assets/img/uploads/pfp-fill.png
+name: Pranav
+display_name: Pranav Goel
+position: ""
 bio: Bulletproof hacker passionate about leather clothes.
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: ""
+facebook_username: ""
+twitter_username: ""
+instagram_username: "@work.pranav"
+linkedin_username: work-pranavgoel
+medium_username: ""
 ---
-
